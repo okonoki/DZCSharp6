@@ -30,8 +30,6 @@
 // int[] array = GetArray(arr);
 // PosNumber(array);
 
-using System.Runtime.ConstrainedExecution;
-
 int Prompt(string message)
 {
     Console.Write(message);
