@@ -1,0 +1,15 @@
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.csproj.AssemblyReference.cache
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.AssemblyInfoInputs.cache
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.AssemblyInfo.cs
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.csproj.CoreCompileInputs.cache
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\bin\Debug\net6.0\task02_2.exe
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\bin\Debug\net6.0\task02_2.deps.json
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\bin\Debug\net6.0\task02_2.runtimeconfig.json
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\bin\Debug\net6.0\task02_2.dll
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\bin\Debug\net6.0\task02_2.pdb
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.dll
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\refint\task02_2.dll
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.pdb
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\task02_2.genruntimeconfig.cache
+C:\Users\Okonoki\Desktop\C#\HomeWorksC#\DZC#6\task02_2\obj\Debug\net6.0\ref\task02_2.dll
