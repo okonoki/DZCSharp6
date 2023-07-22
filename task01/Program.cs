@@ -26,6 +26,6 @@ void PosNumber(int[] array)
 
 Console.Write("Введите через запятую числа, которые будут добавлены в массив: ");
 
-string[] arr = Console.ReadLine().Split(',');
+string[] arr = Console.ReadLine()!.Split(',');
 int[] array = GetArray(arr);
 PosNumber(array);
