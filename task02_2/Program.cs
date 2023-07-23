@@ -1,4 +1,7 @@
-﻿const int COEFFICIENT = 0;
+﻿// Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2;
+// значения b1, k1, b2 и k2 задаются пользователем.
+
+const int COEFFICIENT = 0;
 const int CONSTANT = 1;
 const int X_COORD = 0;
 const int Y_COORD = 1;
@@ -18,9 +21,7 @@ if (ValidateLines(lineData1, lineData2))
 double Prompt(string message)
 {
     Console.WriteLine(message);
-    string value = Console.ReadLine();
-   double result = Convert.ToDouble(value);
-    return result;
+    return Convert.ToDouble(Console.ReadLine());
 }
 
 double[] InputLineData(int numberOfLine)
@@ -31,11 +32,11 @@ double[] InputLineData(int numberOfLine)
     return lineData;
 }
 
-double[] FindCoords(double[] lineData, double[] lineData2)
+double[] FindCoords(double[] lineData1, double[] lineData2)
 {
     double[] coord = new double[2];
-    coord[X_COORD] = (lineData1[CONSTANT] - lineData2[CONSTANT]) / (lineData2[COEFFICIENT] - lineData1[COEFFICIENT]);
-    coord[Y_COORD] = lineData1[CONSTANT] * coord[X_COORD] + lineData1[CONSTANT];
+    coord[X_COORD] = (lineData2[CONSTANT] - lineData1[CONSTANT]) / (lineData1[COEFFICIENT] - lineData2[COEFFICIENT]);
+    coord[Y_COORD] = lineData1[COEFFICIENT] * coord[X_COORD] + lineData1[CONSTANT];
     return coord;
 }
 

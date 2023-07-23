@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj": {}
+    "c:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj": {
+    "c:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj",
+        "projectUniqueName": "c:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj",
         "projectName": "task01",
-        "projectPath": "C:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj",
+        "projectPath": "c:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\task01.csproj",
         "packagesPath": "C:\\Users\\Okonoki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\obj\\",
+        "outputPath": "c:\\Users\\Okonoki\\Desktop\\C#\\HomeWorksC#\\DZC#6\\task01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Okonoki\\AppData\\Roaming\\NuGet\\NuGet.Config"
